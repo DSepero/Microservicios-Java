@@ -1,0 +1,17 @@
+com\DerianSepero\StockBazar\Service\IClienteService.class
+com\DerianSepero\StockBazar\Model\Producto.class
+com\DerianSepero\StockBazar\StockBazarApplication.class
+com\DerianSepero\StockBazar\Service\IVentaService.class
+com\DerianSepero\StockBazar\Repository\IVentaRepository.class
+com\DerianSepero\StockBazar\Repository\IProductoRepository.class
+com\DerianSepero\StockBazar\Service\IProductoService.class
+com\DerianSepero\StockBazar\Service\ClienteService.class
+com\DerianSepero\StockBazar\Service\ProductoService.class
+com\DerianSepero\StockBazar\Service\VentaService.class
+com\DerianSepero\StockBazar\Controller\ProductosController.class
+com\DerianSepero\StockBazar\Controller\VentaController.class
+com\DerianSepero\StockBazar\Model\Venta.class
+com\DerianSepero\StockBazar\Model\Cliente.class
+com\DerianSepero\StockBazar\Repository\IClienteRepository.class
+com\DerianSepero\StockBazar\Controller\ClienteController.class
+com\DerianSepero\StockBazar\DTO\VentaCompletaDTO.class

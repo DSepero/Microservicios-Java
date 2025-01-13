@@ -1,0 +1,17 @@
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Controller\ClienteController.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Controller\ProductosController.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Controller\VentaController.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\DTO\VentaCompletaDTO.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Model\Cliente.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Model\Producto.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Model\Venta.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Repository\IClienteRepository.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Repository\IProductoRepository.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Repository\IVentaRepository.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\ClienteService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\IClienteService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\IProductoService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\IVentaService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\ProductoService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\Service\VentaService.java
+C:\Users\deria\OneDrive\Desktop\Tp final Spring\StockBazar\src\main\java\com\DerianSepero\StockBazar\StockBazarApplication.java
